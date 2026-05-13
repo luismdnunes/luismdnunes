@@ -1,10 +1,19 @@
-## Hi there 👋
+<img src="images/svg/header.svg"></img>
 
-<!--
-**luismdnunes/luismdnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, World!
 
-Here are some ideas to get you started:
+## About me
+This is the section where I mention something about me.
 
+## Education
+
+## Work experience
+
+## Skills
+
+## Publications
+
+## TL;DR
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
